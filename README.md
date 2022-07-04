@@ -1,1 +1,1 @@
-# Custom-FCN-semantic-segmenter-for-Pascal-VOC.
+# Custom-FCN-semantic-segmenter-for-Pascal-VOC
